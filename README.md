@@ -10,7 +10,7 @@
 
 ### Mode : Online
 
-### Title of the session: **"Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
+### Title of the session: "Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
 
 - ### Session 1: Corpus creation from open access repositories and their analysis with semantic tools
 
@@ -21,7 +21,10 @@ Our sessions will explore how [semantic tools](https://semanticclimate.github.io
 - #### Date : October 24, 2025
 - #### Time 8:30 - 9:45 AM EST | 7:00 – 8:15 PM IST
 - #### Introduction of semantic tool: Dr. Renu Kumari, Program Manager #semanticClimate
-- #### Hands-on Demonstration: Ms. Udita Agarwal, Ph.D Student, BRIC-National Institute of Plant Genome Research (BRIC-NIPGR) and Dr. Renu Kumari, Program Manager #semanticClimate and Ms. Shaik Zainab, Anurag University, Hyderabad.
+- #### Hands-on Demonstration: 
+    - **Ms. Udita Agarwal**, Ph.D Student, BRIC-National Institute of Plant Genome Research (BRIC-NIPGR) and 
+    - **Dr. Renu Kumari**, Program Manager #semanticClimate and 
+    - **Ms. Shaik Zainab**, Anurag University, Hyderabad.
 
 - ### Session 2 (Talk): Who Owns Our Knowledge? An Introduction to the #semanticClimate
   
