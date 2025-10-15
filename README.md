@@ -14,14 +14,16 @@
 
 | **Title**                                                                                              | **Date**                   | **Time**                   | **Location** | **People**                                                                                       |
 |---------------------------------------------------------------------------------------------------------|----------------------------|----------------------------|---------------|---------------------------------------------------------------------------------------------------|
-| Virtual Sandbox, Semantic Encyclopedia                                                                 | Monday, **October 20, 2025** | 9:30 PM – 11:30 PM IST     | Online        | **Prof. Peter Murray-Rust**, Ms. Shaik Zainab, Dr. Renu Kumari                                                                                |
-| Corpus creation from open access repositories and their analysis with semantic tools                    | Friday, **October 24, 2025** | 6:00 PM – 7:15 PM IST      | Online        | Dr. Renu Kumari, Ms. Udita Agarwal, Ms. Shaik Zainab, Prof. Peter Murray-Rust                   |
-| Introduction to the #semanticClimate by co-Founder Dr. Gitanjali Yadav                                  | Friday, **October 24, 2025** | 10:00 PM – 11:20 PM IST    | Online        | Dr. Gitanjali Yadav, Prof. Peter Murray-Rust                                                    |
+| Virtual Sandbox, Semantic Encyclopedia                                                                 | Monday, **October 20, 2025** | 9:30 PM – 11:30 PM IST     | Online        | **Prof. Peter Murray-Rust**, Mr. Simon Worthington, Ms. Shaik Zainab, Dr. Renu Kumari                                                                                |
+| Corpus creation from open access repositories and their analysis with semantic tools                    | Friday, **October 24, 2025** | 6:00 PM – 7:15 PM IST      | Online        | Dr. Renu Kumari, Ms. Udita Agarwal, Ms. Shaik Zainab, Prof. Peter Murray-Rust, Mr. Simon Worthington                   |
+| Introduction to the #semanticClimate by co-Founder Dr. Gitanjali Yadav                                  | Friday, **October 24, 2025** | 10:00 PM – 11:20 PM IST    | Online        | Dr. Gitanjali Yadav, Prof. Peter Murray-Rust, Mr. Simon Worthington                                                    |
+
 ### Date: Monday October 20, 2025
 - ### Launch of [Semantic Encyclopedia](https://semanticclimate.github.io/p/en/posts/climate_encyclopedia/)
 - #### Time:  9:30 PM – 11:30 PM IST | 4:00 PM - 6:00 PM UTC
 - #### Presentation by:
-    - **Ms. Shaik Zainab**, Anurag University, Hyderabad, Intern at #semanticClimate
+    - Prof. Peter Murray-Rust
+    - Ms. Shaik Zainab
 
 ### Title of the session: "Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
 
