@@ -1,4 +1,6 @@
-# Open Access Week Transcript
+# Open Access Week
+(Peter Murray-Rust dictated thoughts introducing our approach to the Invitation from NYIT to partner with them)
+
 ## Climate has driven this
 We believe that instant TRUSTable TRUTHful knowledge is key to understanding Cllimate Change and making good decisions.
 BUT everything we do is usable in other contexts.
