@@ -37,13 +37,13 @@ Our sessions will explore how [semantic tools](https://semanticclimate.github.io
 - #### Time 8:30 - 9:45 AM EST | 6:00 – 7:15 PM IST | 12:30 PM - 1:45 PM UTC
 
 - #### Introduction of semantic tool: Dr. Renu Kumari, Program Manager #semanticClimate
-  - ##### [Link to presentation]()
+  - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/OAW2025_corpus_creation.pdf)
 
 - #### Hands-on Demonstration: 
     - **Ms. Udita Agarwal**, Ph.D Student, BRIC-National Institute of Plant Genome Research (BRIC-NIPGR) and 
     - **Dr. Renu Kumari**, Program Manager #semanticClimate and 
     - **Ms. Shaik Zainab**, Anurag University, Hyderabad.
-- #### [Link to Notebook](https://colab.research.google.com/drive/16DPjzO3gR8dc2M_don4tSQSjjcjeuSUJ?usp=sharing)
+  - #### [Link to Notebook](https://colab.research.google.com/drive/16DPjzO3gR8dc2M_don4tSQSjjcjeuSUJ?usp=sharing)
 
 - ### Session 2 (Talk): Who Owns Our Knowledge? An Introduction to the #semanticClimate
   
