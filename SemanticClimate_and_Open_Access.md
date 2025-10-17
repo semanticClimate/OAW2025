@@ -1,11 +1,13 @@
-# Open Access Week Transcript
+# Open Access Week
+(Peter Murray-Rust dictated thoughts introducing our approach to the Invitation from NYIT to partner with them)
+
 ## Climate has driven this
 We believe that instant TRUSTable TRUTHful knowledge is key to understanding Cllimate Change and making good decisions.
 BUT everything we do is usable in other contexts.
 ## Why We're Doing This During Open Access Week
 So, why are we doing this in open access week? Here, because we're now in the middle of global knowledge wars. Libraries and open access and open source are the front line of this.
 ## The Challenges We Face
-We're faced by a number of huge challenges. On the business front, we have surveillance capitalism and encytification, which are now endemic. They are threatening the whole basis of knowledge as something which is not absolute, but which is used for promoting commercial interests, and it's extremely difficult to verify and validate.
+We're faced by a number of huge challenges. On the business front, we have surveillance capitalism and enshittification, which are now endemic. They are threatening the whole basis of knowledge as something which is not absolute, but which is used for promoting commercial interests, and it's extremely difficult to verify and validate.
 We're also seeing knowledge neocolonialism, where the Global North is flooding the Global South with its own view of the world. The flow back from the Global South is very small and is resisted by Northern commercial knowledge producers and distributors.
 And then we've got the massive rise of AI, which can be used for good, but is increasingly used by megatech companies for promoting their own business without regard to the design of their AI systems or the content.
 ## Our Response: The Semantic Climate Encyclopedia
