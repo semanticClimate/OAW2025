@@ -24,6 +24,7 @@
 - #### Presentation by:
     - Prof. Peter Murray-Rust
     - Ms. Shaik Zainab
+    - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf) 
 
 ### Title of the session: "Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
 
