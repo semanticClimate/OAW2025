@@ -25,7 +25,7 @@
     - Prof. Peter Murray-Rust
     - Ms. Shaik Zainab
     - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf) 
-    - ##### [Link to video]( https://drive.google.com/file/d/1aBxnh89hs52rjgMAGWR0a9vUUn4UUPze/view?usp=sharing)
+    - ##### [Link to video](https://drive.google.com/file/d/1aBxnh89hs52rjgMAGWR0a9vUUn4UUPze/view?usp=sharing)
 ### Title of the session: "Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
 
 - ### Session 1: Corpus creation from open access repositories and their analysis with semantic tools
