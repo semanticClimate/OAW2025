@@ -18,7 +18,7 @@
 | Corpus creation from open access repositories and their analysis with semantic tools                    | Friday, **October 24, 2025** | 6:00 PM – 7:15 PM IST      | Online        | Dr. Renu Kumari, Ms. Udita Agarwal, Ms. Shaik Zainab, Prof. Peter Murray-Rust, Mr. Simon Worthington                   |
 | Introduction to the #semanticClimate by co-Founder Dr. Gitanjali Yadav                                  | Friday, **October 24, 2025** | 10:00 PM – 11:20 PM IST    | Online        | Dr. Gitanjali Yadav, Prof. Peter Murray-Rust, Mr. Simon Worthington                                                    |
 
-### Date: Monday October 20, 2025
+## Monday October 20, 2025
 - ### Launch of [Semantic Encyclopedia](https://semanticclimate.github.io/p/en/posts/climate_encyclopedia/)
 - #### Time:  9:30 PM – 11:30 PM IST | 4:00 PM - 6:00 PM UTC
 - #### Presentation by:
@@ -26,6 +26,48 @@
     - Ms. Shaik Zainab
     - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf) 
     - ##### [Link to video](https://drive.google.com/file/d/1aBxnh89hs52rjgMAGWR0a9vUUn4UUPze/view?usp=sharing)
+
+### Agenda: Introduction to the Semantic Encyclopedia, 20th October 2025
+- #### NYIT public website event information: [Link](https://libcal.nyit.edu/calendar/events?cid=872&t=d&d=2025-10-20&cal=872&inc=0) 
+- #### Page on NYIT for the event: [Link](libguides.nyit.edu/open_access/openaccessweek) 
+
+### Program Schedule for Monday October 20, 2025
+- Introduction by Vanessa Viola (host) - 5 mins
+- Mechanics of this session (orientation) 
+- Livestream
+- Chat
+- Recording
+- Encourage questions (interjections welcome)
+- Who owns our knowledge 
+  - **Peter Murray-Rust** (10 mins)
+  
+- **List blogposts PMR**
+  - [What Semantic Climate Brings to Open Access in 2025](https://semanticclimate.github.io/p/en/posts/blog3_OAW2025/)
+  - [Budapest 24 years on](https://semanticclimate.github.io/p/en/posts/blog2_OAW2025/)
+  - [Open Access Week 2025 and semanticClimate](https://semanticclimate.github.io/p/en/posts/blog1_OAW2025/)
+  - [Who Owns Our Knowledge?](https://semanticclimate.github.io/p/en/posts/blog4_OAW2025/)
+  - [Large Language Models and Who Owns Our Knowledge](https://semanticclimate.github.io/p/en/posts/blog6_OAW2025/)
+  - [What Can We Do About Knowledge Ownership?](https://semanticclimate.github.io/p/en/posts/blog5_OAW2025/)
+- **Simon Worthington** - 2 minutes
+  - How to make change? - Using guides to multiply know-how. E.g., CS4RL LIBER Citizen Science Guides
+  - In the context of a publishing regime that is incapable of change.
+
+- **Shaik Zainab** (SZ) - Presents Semantic Encyclopedia - 20 mins
+  - Ingest of material
+  - Create keyphrase list
+  - Create encyclopedia
+  - Annotation - PMR
+
+- **Resources**
+- semantic Encyclopedia
+  - Blogpost - [semantic Encyclopedia](https://semanticclimate.github.io/p/en/posts/climate_encyclopedia/) What is an Encyclopedia? - (about, workflow)
+  - GitHub landing page - [Link](https://github.com/semanticClimate/encyclopedia) 
+  - Demo publication - [demo](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
+
+- **#sC Resources** - [Click Here](https://semanticclimate.github.io/p/en/posts/resources/) 
+
+## Friday October 24, 2025
+
 ### Title of the session: "Open Science and Citizen Science with #semanticClimate: Open-Software for Knowledge Liberation".
 
 - ### Session 1: Corpus creation from open access repositories and their analysis with semantic tools
