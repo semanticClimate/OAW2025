@@ -51,7 +51,7 @@
   - How to make change? - Using guides to multiply know-how. E.g., CS4RL LIBER Citizen Science Guides
   - In the context of a publishing regime that is incapable of change.
 
-- **Shaik Zainab** (SZ) - Presents Semantic Encyclopedia - 20 mins
+- **Shaik Zainab** (SZ) - Presents Semantic Encyclopedia - 20 mins [Link to Slides](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf)
   - Ingest of material
   - Create keyphrase list
   - Create encyclopedia
