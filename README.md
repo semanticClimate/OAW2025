@@ -29,7 +29,6 @@
 
 ### Agenda: Introduction to the Semantic Encyclopedia, 20th October 2025
 - #### NYIT public website event information: [Link](https://libcal.nyit.edu/calendar/events?cid=872&t=d&d=2025-10-20&cal=872&inc=0) 
-- #### Page on NYIT for the event: [Link](libguides.nyit.edu/open_access/openaccessweek) 
 
 ### Program Schedule for Monday October 20, 2025
 - Introduction by Vanessa Viola (host) - 5 mins
@@ -57,6 +56,13 @@
   - Create keyphrase list
   - Create encyclopedia
   - Annotation - PMR
+
+- Climate Knowledge Graph SW - 10 mins
+  - [Slides](https://docs.google.com/presentation/d/1pGCkP1wZQpaHwgkGo0fpCDy60vBCGmVPExiwj5SHb5I/edit?usp=sharing)
+  - Shweata Hegde - interactive KG 5 mins, [Link](https://semanticclimate.github.io/p/en/ipcc_glossary/)
+- Paged Media CSS SW - 10 mins
+  - [Slides](https://docs.google.com/presentation/d/14MPAqEAX6iwWEtUneKvs6h97qAdidsDgxZak4Grq-3c/edit?usp=sharing)
+
 
 - **Resources**
 - semantic Encyclopedia
