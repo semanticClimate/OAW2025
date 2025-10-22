@@ -23,9 +23,10 @@
 - #### Time:  9:30 PM – 11:30 PM IST | 4:00 PM - 6:00 PM UTC
 - #### Presentation by:
     - Prof. Peter Murray-Rust
+    - Mr. Simon Worthington
     - Ms. Shaik Zainab
-    - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf) 
-    - ##### [Link to video](https://drive.google.com/file/d/1aBxnh89hs52rjgMAGWR0a9vUUn4UUPze/view?usp=sharing)
+      - ##### [Link to presentation](https://github.com/semanticClimate/OAW2025/blob/main/presentations/Semantic%20Encyclopedia.pdf) 
+      - ##### [Link to video](https://drive.google.com/file/d/1aBxnh89hs52rjgMAGWR0a9vUUn4UUPze/view?usp=sharing)
 
 ### Agenda: Introduction to the Semantic Encyclopedia, 20th October 2025
 - #### NYIT public website event information: [Link](https://libcal.nyit.edu/calendar/events?cid=872&t=d&d=2025-10-20&cal=872&inc=0) 
